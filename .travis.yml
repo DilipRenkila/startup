@@ -6,7 +6,7 @@ python:
 install:
   - "pip install flake8"
 
-script: flake8 startup
+script: flake8 polls
 
 branches:
   only:
